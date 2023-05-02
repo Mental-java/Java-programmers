@@ -9,6 +9,7 @@ public class solution1 {
         }
         answer = tot/(arr.length);
         return answer;
+        //커밋연습
     }
 }
 
