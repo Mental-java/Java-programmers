@@ -9,6 +9,5 @@ public class solution3 {
             answer = answer + a;
         }
         return answer;
-        //
     }
 }
