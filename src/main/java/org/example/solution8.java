@@ -1,6 +1,7 @@
 package org.example;
 
 public class solution8 {
+    //서울에서 김서방 찾기
     String answer = "";
     public String solution(String[] seoul) {
         for(int i = 0; i < seoul.length; i++) {
